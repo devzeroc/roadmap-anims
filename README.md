@@ -1,14 +1,2 @@
 # roadmap-anims
-just some notes idk
-
-<span style="color: red;">This text is red or whatever, trying out css inline stuff.</span>
-
-Here's a cool tutorial on creating a dynamic face that can be applied to your animations using Moon Animator.
-
-1. Open Paint 3D (the software I use, but you can switch to a better alternative such as Photoshop) and set the canvas size to 420 x 420. Don't forget to uncheck the "Lock Aspect Ratio" and "Resize with canvas" checkboxes.
-2. Draw the face as you please, but don't draw the pupils. Export it as a PNG file to your folder.
-3. Open Roblox Studio, create a blank Part (name it "Face" for convenience) and add a Decal object to it. Within the Decal's properties, find the "ColorMapContent" property and import the face you just made.
-4. Now let's move on to making the pupils. The reason we're doing this in Roblox Studio is so we can control the eye movement using Moon Animator's keyframes. Create a cylinder part, recolor, resize, and adjust it until it fits as your character's pupils. Duplicate it and rename both parts to something you can remember easily. Make sure to place both pupil parts inside your Face part.
-5. Use the EasyWeld plugin to weld your pupil parts to the Face part. Afterwards, set the Face part's transparency to 0.
-6. Import your character's rig and delete the face decal. If that doesn't work as intended, search for a faceless head in the Toolbox, grab the SpecialMesh object, and replace the Mesh object inside your character's head. Don't forget to also place the Face part inside your character's head folder.
-7. Position the Face part on the rig's head (front-facing) accordingly. Finally, use the EasyWeld plugin to attach the Face part to your character's rig. (Make sure "Animatable" is checked.)
+just some notes about animation, venture off to the amazing journey!
