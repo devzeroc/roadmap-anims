@@ -1,5 +1,4 @@
 # roadmap-anims
 just some notes idk
 
-
-<h1 color='red'>Step 1!</h1>
+<span style="color: red;">This text is red.</span>
