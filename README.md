@@ -2,4 +2,4 @@
 just some notes idk
 
 
-<h1 style="color='red'">Step 1!</h1>
+<h1 color='red'>Step 1!</h1>
